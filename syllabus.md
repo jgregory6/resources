@@ -1,4 +1,4 @@
-# MIS3690 Web Technologies - 2019 Summer - Syllabus
+# MIS3690 Web Technologies - 2019 Fall - Syllabus
 
 - Class Time: 
     * Section 01: Monday, Wednesday, 1:15PM- 2:50PM
