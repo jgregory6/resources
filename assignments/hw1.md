@@ -53,4 +53,4 @@ Format the “low.htm” page using internal CSS (and only internal CSS) as foll
 4.	The image must have a width of 50px, height need not be specified. 
 
 ## Submission:
-Commit/push to GitHub. Create tag 'hw1' for this release. (Learn [tags and release](https://help.github.com/articles/working-with-tags/).)
+Commit/push to GitHub.
