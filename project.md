@@ -49,7 +49,7 @@ As you think through your website, please remember that the website must have at
 This first version is worth **5 points**. 
 
 ### Submission:
-Please create it using a web page, save this page to project repository. Commit/push to GitHub.
+Please create it using a web page, save it to project repository. Use necessary CSS to format this page. Commit/push to GitHub.
 
 
 ## Project Version 1 
