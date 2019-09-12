@@ -31,11 +31,11 @@ technologies that are covered in this course. Some items that are strictly prohi
 All the HTML codes must be your own (the only exceptions are the tags used by a CSS template that you have used for your webpage(s)).
 
 ## Getting Started
-To start your project, you need to create a new repository in GitHub. Add me([zli@babson.edu](zli@babson.edu)) as a collaborator on GitHub for that repo.
+To start your project, you need to create a new **public** repository in GitHub.
 
 
 ## Project Proposal
-- **Due Sunday 9/15/2019, by 11:59 PM**
+- **Due Thursday 9/19/2019, by 11:59 PM**
 
 This is a webpage that answers the following questions:
 
