@@ -58,4 +58,6 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [jQuery Quick API Reference](https://oscarotero.com/jquery/)
 - [Official jQuery introduction site](http://learn.jquery.com/)
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
-...
+- [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- ...
