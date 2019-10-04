@@ -76,7 +76,7 @@ This first version is worth **35 points**.
 - Links to the site-map page and the contact/feedback page must be available from the navigation bar or from links at the bottom of the page. (2) 
 
 ### Submission:
-Save all the files in project folder. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
+Save all the files in project repository. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
 
 ## Project Version 2
 - **Due Sunday 11/17/2019, by 11:59 PM**
@@ -96,7 +96,7 @@ This deliverable is worth **25 points**.
 
 ### Submission:
 
-1. Save all the files in project repo. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
+1. Save all the files in project repository. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
 2. Upload your home page (required) and any other pages (optional) to the external host. Add a link to your LOW page to the external host. 
 
 ## Project Final
@@ -120,6 +120,6 @@ This deliverable is worth **35 points**.
 
 
 ### Submission:
-1. Save all the files in project repo. Commit/push to GitHub. Create tag 'final' for this release.
+1. Save all the files in project repository. Commit/push to GitHub. Create tag 'final' for this release.
 
 2. Upload/update the folder to the external server. It must just have all of the project-related files and link the URL to the LOW page.  
