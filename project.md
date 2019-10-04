@@ -53,7 +53,7 @@ Please create it using a web page, save it to project repository. Use necessary 
 
 
 ## Project Version 1 
-- **Due Sunday 10/13/2019, by 11:59 PM**
+- **Due Tuesday 10/15/2019, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and JQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -72,9 +72,8 @@ This first version is worth **35 points**.
 - Site-Map is included (see sample site map at https://www.apple.com/sitemap). (5) 
 - Contact page included with a feedback form. (3) 
 - At least 2 of the 4 content pages are completed with informative and relevant content. (3) 
-
-- Navigation menu is located in the same place on each page. (3)
-- Links to the site-map page and the contact/feedback page must be available from the navigation menu or from links at the bottom of the page. (2) 
+- Navigation bar is located in the same place on each page. (3)
+- Links to the site-map page and the contact/feedback page must be available from the navigation bar or from links at the bottom of the page. (2) 
 
 ### Submission:
 Save all the files in project folder. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
