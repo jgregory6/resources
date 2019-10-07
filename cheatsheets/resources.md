@@ -31,6 +31,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 
 ## Reference
 - [Can I use...](http://caniuse.com/)
+- [Web technology for developers - Mozilla](https://developer.mozilla.org/en-US/docs/Web)
 - [W3Schools](http://www.w3schools.com).
 - [Writing on GitHub / Basic writing and formatting syntax ](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
@@ -50,6 +51,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [Stack Overflow](https://stackoverflow.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Selectors Game](http://flukeout.github.io)
+- [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 - [Media Queries](https://mediaqueri.es/)
 - [HTML5 Rocks - A resource for open web HTML5 developers](https://www.html5rocks.com/en/)
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
@@ -60,4 +62,5 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+
 - ...
