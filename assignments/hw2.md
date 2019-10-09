@@ -81,7 +81,7 @@ Replicate the header of **ONE** of the two websites: [wsj.com](https://www.wsj.c
 - You need to write html and CSS code from scratch. 
 - All links don't have to work. You can use `href=""` for all the `a` tags.
 - You don't have to implement the dropdown menu. However, the effect of a link when the user mouses over it needs to be finished, for example, the changing color and border of navigation bar link on [wsj.com](https://www.wsj.com/), or the (very light) shadow effect of navigation bar link on [nytimes.com](https://www.nytimes.com/).
-- Search bar does have to work. You can make a link instead.
+- Search bar does not have to work. You can make a link instead.
 - You can use either internal CSS or external CSS. In-line CSS is not allowed.
 - Save it as `hw2-wsj.htm` or `hw2-nytimes.htm` into folder `homework`. Folder `homework` should be under `WebTech` folder, not under `classwork` folder. 
 
