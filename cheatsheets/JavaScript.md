@@ -75,3 +75,13 @@ Javascript in one page:
 
 JavaScript Cheat Sheet:
 [http://overapi.com/javascript](http://overapi.com/javascript)
+
+
+# More JavaScript Exercises
+[Exercism](https://exercism.io/)
+
+[Codewards](https://www.codewars.com/)
+
+[freeCodeCamp](https://www.freecodecamp.org/)
+
+[JavaScript30](https://javascript30.com/)
