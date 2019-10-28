@@ -1,72 +1,60 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
-  <title>CS16-InClass1</title>
-  <style type="text/css">
-    form {
-      background-color: Silver;
-      font-family: Arial;
-      color: Navy;
-      padding: 30px 50px 30px 100px;
-      margin-right: 150px;
-      margin-left: 150px;
-    }
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="ie=edge" http-equiv="X-UA-Compatible" />
+    <title>CS16-InClass1</title>
+    <style type="text/css">
+      form {
+        background-color: Silver;
+        font-family: Arial;
+        padding: 30px 50px;
+        margin-right: 100px;
+        margin-left: 100px;
+      }
 
-    h2 {
-      text-align: center;
-      font-family: Cursive;
-      color: Black;
-    }
-  </style>
-</head>
-<body>
-  <form action="" method="post">
-    <h2>Processing Radio Button and Check Box</h2>
-    <p>
-      Please select a background color for the page:
-    </p>
-    <p>
-      <label>
-        Green:</label>
-      <input name="colors" type="radio" value="green"/>
-      <label>
-        Yellow:</label>
-      <input name="colors" type="radio" value="yellow"/>
-      <label>
-        Lime:</label>
-      <input name="colors" type="radio" value="lime"/>
-      <label>
-        Aqua:</label>
-      <input name="colors" type="radio" value="aqua"/>
-    </p>
-    <p>
-      Please select your favorite magazines: <br/>
-      <label>
-        <input name="mags" type="checkbox" value="Sports Illustrated"/>
-        Sports Illustrated </label
-      ><br/>
-      <label>
-        <input name="mags" type="checkbox" value="Wired"/>
-        Wired </label
-      ><br/>
-      <input name="mags" type="checkbox" value="National Geographic"/>
-      <label>National Geographic </label><br/>
-      <input name="mags" type="checkbox" value="WSJ"/>
-      <label> WSJ
-      </label>
-    </p>
-    <p>
-      <label>
-        Your selections:<br/></label>
-      <textarea cols="40" name="result" rows="4"></textarea>
-    </p>
-    <p>
-      <input name="submit" type="submit" value="Go!"/>
-      <input name="Reset" type="reset" value="Clear!"/>
-    </p>
-  </form>
-</body>
+      h2 {
+        text-align: center;
+        color: Black;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="" method="post">
+      <h2>Processing Radio Button and Check Box</h2>
+      <p>
+        Please select a background color for the page:
+      </p>
+      <p>
+        <label>Green:</label>
+        <input name="colors" type="radio" value="green" />
+        <label>Yellow:</label>
+        <input name="colors" type="radio" value="yellow" />
+        <label>Lime:</label>
+        <input name="colors" type="radio" value="lime" />
+        <label>Aqua:</label>
+        <input name="colors" type="radio" value="aqua" />
+      </p>
+      <p>
+        Please select your favorite magazines: <br />
+        <input name="mags" type="checkbox" value="Sports Illustrated" />
+        <label>Sports Illustrated </label><br />
+        <input name="mags" type="checkbox" value="Wired" />
+        <label>Wired </label><br />
+        <input name="mags" type="checkbox" value="National Geographic" />
+        <label>National Geographic </label><br />
+        <input name="mags" type="checkbox" value="WSJ" />
+        <label> WSJ </label>
+      </p>
+      <p>
+        <label> Your selections:</label><br />
+        <textarea cols="40" name="result" rows="4"></textarea>
+      </p>
+      <p>
+        <input name="submit" type="submit" value="Go!" />
+        <input name="Reset" type="reset" value="Clear!" />
+      </p>
+    </form>
+  </body>
 </html>
