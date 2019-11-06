@@ -7,7 +7,6 @@
   <title>CS17 Quiz-1: Calculate the sum of squares</title>
   <style type="text/css">
     form {
-      font-family: Arial;
       font-weight: bold;
       padding: 50px;
       width: 70%;
@@ -17,22 +16,26 @@
     }
 
     h1 {
-      font-family: Arial;
-      font-weight: bold;
       text-align: center;
     }
 
     p {
       text-align: center;
     }
+
+    #question {
+      font-size: large;
+      width: 70%;
+      margin-right: auto;
+      margin-left: auto;
+    }
   </style>
-  <script>
-  </script>
 </head>
 <body>
   <h1> Yet Another Simple Calculator</h1>
-  <p> Please use <b>for</b> loop to sum up <strong>squares</strong> all the integers between these two
-    numbers (inclusive). </p>
+  <p id="question"> Please use <b>for</b> loop to sum up <strong>squares</strong> all the integers between these two
+    numbers (inclusive). You can don't have to validate inputs; in other words, you can assume both inputs are integers
+    (you still need to convert) and the first number is less than the second.</p>
   <form action="" method="post">
     <p id="p1">
       <label>From:
