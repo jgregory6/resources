@@ -79,7 +79,7 @@ This first version is worth **35 points**.
 Save all the files in project repository. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
 
 ## Project Version 2
-- **Due Sunday 11/17/2019, by 11:59 PM**
+- **Due ~~Sunday 11/17/2019~~Tuesday 12/10/2019, by 11:59 PM**
 
 This version has 2 parts. First, you extend your Version 1 by adding CSS and by filling in the gaps that may exist. Second, you must have your external host and domain name available with just the Home Page (index page) uploaded to the external host.
 
@@ -94,10 +94,10 @@ This deliverable is worth **25 points**.
 - Include the honor code at the end of the site-map page: “I, \<your name\>, pledge my honor that I have neither received nor provided unauthorized assistance during the completion of this work. I have read the term project instructions and observed all the restrictions and limitations specified therein.” (2)
 - The 2 remaining content pages are completed and linked to the website. (2)
 
-### Submission:
+~~### Submission:~~
 
-1. Save all the files in project repository. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
-2. Upload your home page (required) and any other pages (optional) to the external host. Add a link to your LOW page to the external host. 
+~~1. Save all the files in project repository. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn Learn [Creating releases](https://help.github.com/en/articles/creating-releases).~~
+~~2. Upload your home page (required) and any other pages (optional) to the external host. Add a link to your LOW page to the external host.~~
 
 ## Project Final
 - **Due Tuesday 12/10/2019, by 11:59 PM**
