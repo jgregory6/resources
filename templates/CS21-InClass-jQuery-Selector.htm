@@ -4,17 +4,16 @@
   <meta charset="UTF-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
-  <title>JQuery Selector</title>
+  <title>jQuery Selector</title>
   <script
-    src="http://code.jquery.com/jquery.min.js"
-    type="text/javascript"
-  ></script>
+    crossorigin="anonymous"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script type="text/javascript">
     function findSelected() {
       let selected;
       // selected = ?
       selected.css("background-color", "#ffd351");
-      return false;
     }
   </script>
 </head>
@@ -36,7 +35,7 @@
           <label>password: <input name="password" type="password"/></label>
         </p>
         <p>
-          <button onclick="return findSelected();">sign up</button>
+          <input onclick="findSelected();" type="button" value="sign up">
         </p>
       </fieldset>
     </form>
