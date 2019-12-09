@@ -87,7 +87,7 @@ This deliverable is worth **25 points**.
 
 ### Grading Rubric:
 
-- Home page is hosted on the external server and linked to your LOW page. (6)
+- All the pages are hosted on the Web Host. Add the website domain to your LOW page. (6)
 - Look and feel of the site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) – this is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on the use of colors, fonts and backgrounds.
 - Attention to SEO principles. (3)
 - A separate credits page included if credits are due to sources for images, multimedia, or content. If no credits are due, then, add the following statement at the end of your site-map page “All intellectual property at this website is in the public domain or is the property of the site-owner”. (3)
