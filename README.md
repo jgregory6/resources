@@ -1,14 +1,13 @@
-# Resources and information for MIS3690, _Web Technologies_.
+# Resources and information for MIS3690 - _Web Technologies_
 
+### Class Information:
 
-
-- [Syllabus](syllabus.md)
+- [Syllabus](syllabus_2020summer.md)
 - [Project](project.md)
-- [Schedule for Section 01 (MW)](schedule-01.xlsx) (subject to minor changes)
-- [Schedule for Section 02 (TR)](schedule-02.xlsx) (subject to minor changes)
+- [Schedule](schedule.xlsx) (subject to changes)
 
+### Resources
 
-Resources 
 - [Resources](cheatsheets/resources.md)
 - [JavaScript Resources](cheatsheets/JavaScript.md)
 - [Glossary](cheatsheets/glossary.md)
