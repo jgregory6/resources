@@ -1,7 +1,8 @@
 # Resources
 
-## Web Browser
-We will be working exclusively with the [Chrome web browser](https://www.google.com/chrome/) throughout this course. All assignments will be graded using Chrome, so be sure to test with it.
+## Web Browsers
+
+We will be working mostly with the [Chrome web browser](https://www.google.com/chrome/) throughout this course. All assignments will be graded using Chrome, so be sure to test with it.
 
 ## Software
 
@@ -11,17 +12,20 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [GitHub Desktop](https://desktop.github.com) (Windows & Mac)
 
 ### Windows Text Editors
+
 - [VS Code](https://code.visualstudio.com)
 - [Sublime Text 3](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 - [Notepad++](http://notepad-plus-plus.org/)
 
 ### Mac Text Editors
+
 - [VS Code](https://code.visualstudio.com/docs/setup/mac)
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Atom](https://atom.io/)
 
 ## Tools
+
 - [JSFiddle](https://jsfiddle.net/)
 - [CodePen](http://codepen.io/)
 - [JS Bin](https://jsbin.com)
@@ -30,12 +34,14 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [Online Photo Editor](http://pixlr.com/editor/)
 
 ## Reference
+
 - [Can I use...](http://caniuse.com/)
 - [Web technology for developers - Mozilla](https://developer.mozilla.org/en-US/docs/Web)
 - [W3Schools](http://www.w3schools.com).
-- [Writing on GitHub / Basic writing and formatting syntax ](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ## Recommended Books
+
 - [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1449319270/)
 - [HTML5 Pocket Reference, 5th Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920029274.do)
 - [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)
@@ -43,6 +49,7 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - ...
 
 ## Websites
+
 - [A List Apart: For People Who Make Websites](http://alistapart.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Net Magazine](http://www.creativebloq.com/net-magazine)
@@ -62,5 +69,4 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
-
 - ...
