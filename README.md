@@ -4,7 +4,7 @@
 
 - [Syllabus](syllabus_2020summer.md)
 - [Project](project.md)
-- [Schedule](schedule.xlsx) (subject to changes)
+- [Schedule](schedule_2020summer.md) (subject to changes)
 
 ### Resources
 
