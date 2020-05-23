@@ -35,7 +35,7 @@ Style _index.html_ using only **internal** CSS as follows:
 5. `<p>` - the first line of each paragraph must be indented by 30px.
 6. `<img>` - floated to the left with a margin of 30px all around.
 7. `<body>` - set a background color (any color), and set the left and right margins to 50px.
-8. Use at least one CSS property that was not introduced in class on any element(s). Add comment in `<style>` section to explain it.
+8. Use at least one CSS property that was not used in class exercises on any element(s). Add comment in `<style>` section to explain it.
 
 ## 3. Creating _sitemap.html_ (4 points)
 
