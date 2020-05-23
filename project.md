@@ -1,4 +1,6 @@
-# MIS3690 Web Technologies - Term Project
+# MIS3690 Web Technologies - Term Project  (subject to changes) 
+
+---
 
 ## What is the Term Project?
 
