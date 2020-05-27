@@ -51,9 +51,7 @@ There are no required texts for this course. All course material will be present
   
 ### Source Control
 
-- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README and the following folders:
-  - classwork
-  - homework
+- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README.md.
 
   You also need to add me (zli@babson.edu) as a collaborator on the repo.
 - [GitHub Student Developer Pack](https://education.github.com/pack)
