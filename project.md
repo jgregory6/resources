@@ -1,18 +1,27 @@
-# MIS3690 Web Technologies - Term Project  (subject to changes) 
-
----
+# MIS3690 Web Technologies - Term Project (subject to changes)
 
 ## What is the Term Project?
 
-The term project requires you to conceptualize, design, and implement a website. This is an individual effort. The website must be published using two hosts: (a) the internal server provided to you by Babson as part of this course and (b) an external hosting site such as GoDaddy or BlueHost. It is important that the hosting service you use must provide you with advertisement-free service (i.e., your webpages must not have advertisements and there must be no “pop-up” advertisements). You will be required to purchase a domain and pay a hosting-fee for the service, which might total to about \$15-\$40. These charges are separate from the tuition charges for the term (sort of like buying text books for a course).
+The term project requires you to conceptualize, design, and implement a website. This is an individual effort. 
 
-The project is to be developed throughout the term and completed in 2 intermediate stages plus the final submission. It also requires two different but related deliverables: the proposal document and the permissions document. The project must be completed and submitted to the instructor by the last day of class. All intermediate stages must be submitted on the day it is due. Each intermediate deliverable is graded and late submissions are penalized 3 points for every day it is late. Extensions may be granted at the instructor’s discretion provided you make the request before the due-date. Every deliverable is mandatory and has to be submitted, even if it is late.
+The website must be published using following hosts: 
+1. ~~the internal server provided to you by Babson as part of this course~~
+2. GitHub project repository
+3. An external host or cloud service. It is important that the hosting service must provide ad-free service (i.e., your webpages must not have advertisements and there must be no "pop-up" advertisements).
+
+You will be required to 
+1. purchase a domain
+2. use an external host. You can
+   - pay a hosting fee for the service such as GoDaddy or BlueHost, which is total to about \$10-\$30   
+   - or use (free) cloud service such as Heroku, Amazon Web Services (AWS), Google Cloud Platform, or DigitalOcean.
+
+The project is to be developed throughout the term and completed in two intermediate stages plus the final submission. The project must be completed and submitted to the instructor by the last day of class. All intermediate stages must be submitted on the day it is due. Each intermediate deliverable is graded and late submissions are penalized 3 points for every day it is late. Extensions may be granted at the instructor’s discretion provided you make the request before the due-date. Every deliverable is mandatory and has to be submitted, even if it is late.
 
 ## Examples of Term Project:
 
-Your term project website may be based on any topic that conforms to Babson’s Policy on Terms of Use [http://www.babson.edu/privacy-policy/Pages/terms-of-use.aspx](http://www.babson.edu/privacy-policy/Pages/terms-of-use.aspx). Also remember that the course only addresses browser-side development. The course does not cover back-end databases, middleware or e-commerce. So, users will not be able to provide comments on your site that can be stored and retrieved later, upload images or multimedia to your website and, not be able to buy/sell products using your website. You can, however, design your site so that it can be extended to support these features at a later stage (beyond this course).
+Your term project website may be based on any topic that conforms to [Babson’s Policy on Terms of Use](https://www.babson.edu/terms-of-use/). Also remember that the course only addresses browser-side development. The course does not cover back-end databases, middleware or e-commerce. So, users will not be able to provide comments on your site that can be stored and retrieved later, upload images or multimedia to your website and, not be able to buy/sell products using your website. You can, however, design your site so that it can be extended to support these features at a later stage (beyond this course).
 
-Examples of Term Projects (to give you a flavor):
+## Examples of Term Projects (to give you a flavor):
 
 1. travel2hk – a site dedicated to informing travelers about Hong Kong and its attractions. It includes night-life, dining options, sites to see, weather, fashion, and even a converter to covert temperature and currency (between Hong Kong currency and any other currencies of the world).
 2. JRC Interiors – a website to support a family-owned interior design business. Besides information about the owners, it also presents a portfolio of projects completed, artwork available for sale and creative ideas for decorating your home/office.
@@ -25,23 +34,28 @@ Examples of Term Projects (to give you a flavor):
 
 ## Things You Cannot Do:
 
-technologies that are covered in this course. Some items that are strictly prohibited are:
+- technologies that are covered in this course generally
 
-- Flash files unless you stream them directly from the source with permission from source.
-- Server-side scripts (including PHP, except for mailer.php which is provided to you in this course).
-- JavaScript files that you have not developed.
-- CSS templates that are not customized – you need to customize it at least by removing all of the CSS elements that you have not used in your website pages.
-- Website templates or pages developed by Content Management Systems (CMS) such as WordPress, Drupal or Joomla.
+Some items that are strictly prohibited are:
 
-All the HTML codes must be your own (the only exceptions are the tags used by a CSS template that you have used for your webpage(s)).
+- Adobe Flash files
+- Server-side scripts (except for _mailer.php_ and _index.php_).
+- JavaScript files that you have not developed
+- CSS templates that are not customized 
+  - you need to customize it at least by removing all of the CSS elements that you have not used in your website pages.
+- Website templates or pages developed by any Content Management Systems (CMS) such as WordPress, Drupal or Joomla.
+
+All the HTML code must be your own.
+
+---
 
 ## Getting Started
 
-To start your project, you need to create a new **public** repository in GitHub.
+To start your project, you need to create a **_new public_** repository in GitHub.
 
 ## Project Proposal
 
-Due: **Wednesday 5/27/2020, by 11:59 PM**
+Due: **Wednesday 6/3/2020, by 11:59 PM**
 
 This is a webpage that answers the following questions:
 
@@ -56,15 +70,19 @@ This first version is worth **5 points**.
 
 ### Submission:
 
-Please create it using a web page, save it to project repository. Use necessary CSS to format this page. Commit/push to GitHub.
+- Create a webpage, _proposal.html_, save it to project repository (not **_WebTech_** repository).
+- Use necessary CSS to style this page.
+- **_Commit/push_** to GitHub.
+
+---
 
 ## Project Version 1
 
 Due **Wednesday 6/10/2020, by 11:59 PM**
 
-This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and JQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
+This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
-This first version is worth **35 points**.
+This first version is worth **30 points**.
 
 ### Grading Rubric:
 
@@ -72,67 +90,79 @@ This first version is worth **35 points**.
 - Use of a table. (3)
 - Use of a form. (3)
 - Images are appropriately used and adequate to support the website. (2)
-- Images are defined using both ALT and TITLE. (2)
-- Inclusion of an image map with at least two hot-spots on a single image. (4)
+- Images are defined using both `alt` and `title`. (2)
 - Video included. (2)
 - Audio file included on the home page with on/off controls. (2)
-- Home page should be called “index.htm”. (1)
-- Site-Map is included (see sample site map at [
-Apple Site Map
-](https://www.apple.com/sitemap)). (5)
+- Homepage should be called _index.html_. (1)
+- Sitemap is included (see sample site map at [
+  Apple Site Map
+  ](https://www.apple.com/sitemap)). (5)
 - Contact page included with a feedback form. (3)
 - At least 2 of the 4 content pages are completed with informative and relevant content. (3)
 - Navigation bar is located in the same place on each page. (3)
-- Links to the site-map page and the contact/feedback page must be available from the navigation bar or from links at the bottom of the page. (2)
+- Links to the sitemap page and the contact/feedback page must be available from the navigation bar or from links at the bottom of the page. (2)
 
 ### Submission:
 
-Save all the files in project repository. Commit/push to GitHub. Create tag 'v1.0' for current release. Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
+- Save all the files in project repository.
+- **_Commit/push_** to GitHub.
+- Create tag `'v1.0'` for current release. Learn [creating a release](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
+
+---
 
 ## Project Version 2
 
 Due **Wednesday 6/24/2020, by 11:59 PM**
 
-This version has 2 parts. First, you extend your Version 1 by adding CSS and by filling in the gaps that may exist. Second, you must have your external host and domain name available with just the Home Page (index page) uploaded to the external host.
+This version has two parts.
+
+1. Extend Version 1 by adding CSS and by filling in the gaps that may exist.
+2. Have your external host and domain name available with all the files uploaded to external host.
 
 This deliverable is worth **25 points**.
 
 ### Grading Rubric:
 
-- All the pages are hosted on the Web Host. Add the website domain to your LOW page. (6)
+- All the pages are hosted on the external host(or cloud). Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
 - Look and feel of the site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) – this is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on the use of colors, fonts and backgrounds.
 - Attention to SEO principles. (3)
-- A separate credits page included if credits are due to sources for images, multimedia, or content. If no credits are due, then, add the following statement at the end of your site-map page “All intellectual property at this website is in the public domain or is the property of the site-owner”. (3)
-- Include the honor code at the end of the site-map page: “I, \<your name\>, pledge my honor that I have neither received nor provided unauthorized assistance during the completion of this work. I have read the term project instructions and observed all the restrictions and limitations specified therein.” (2)
-- The 2 remaining content pages are completed and linked to the website. (2)
+- A separate credits page included if credits are due to sources for images, multimedia, or content. If no credits are due, then add the following statement at the end of your sitemap page _"All intellectual property at this website is in the public domain or is the property of the site-owner."_ (3)
+- Include the honor code at the end of the sitemap page: "I, \<_your name_\>, pledge my honor that I have neither received nor provided unauthorized assistance during the completion of this work. I have read the term project instructions and observed all the restrictions and limitations specified therein." (2)
+- The remaining content pages are completed and linked to the website. (2)
 
 ### Submission:
 
-1. Save all the files in project repository. Commit/push to GitHub. Create tag 'v2.0' for this release. Learn Learn [Creating releases](https://help.github.com/en/articles/creating-releases).
-2. Upload your home page (required) and any other pages (optional) to the external host.
+- Save all the files in project repository.
+- **_Commit/push_** to GitHub.
+- Create tag 'v2.0' for this release.
+- Upload all the files to external host.
+
+---
 
 ## Project Final
 
 Due **Monday 7/6/2020, by 11:59 PM**
 
-The final version of the project must have the full-set of project files on GitHub and linked to your LOW page. It also includes the full-set of project files loaded to the external hosting site and linked to the LOW page.
+The final version of the project must have the full-set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository. It also includes the full-set of project files uploaded to the external host/cloud and linked to _sitemap.html_ in _WebTech_ repository.
 
-This deliverable is worth **35 points**.
+This deliverable is worth **40 points**.
 
 ### Grading Rubric:
 
-- Final version in the hosted site and linked to LOW. (2)
-- JavaScript is used for the following:
-  - Change the text on a page in response to the user’s action. (4)
-  - Change the style of some element in response to the user’s action. (4)
-  - Validate a form. (5)
-  - Change images using mouse-over and mouse-out. (4)
-  - Present a slide-show. (5)
-  - Animate something (anything, not including the slide-show) or add some other functionality to the page besides what is listed above. (5)
-- Some JQuery elements are present on the website. (4)
+- Final version in the external host/cloud and linked to _sitemap.html_. (2)
+- JavaScript is used for the following functionalities/effects:
+  - Change the text on a page in response to the user’s action. (2)
+  - Change the style of some element in response to the user’s action. (2)
+  - Validate a form. (2)
+  - Change images using mouse-over and mouse-out. (2)
+  - Present a slide-show. (2)
+  - Animate something or add some other functionality to the page besides what is listed above. (3)
+- Some jQuery elements are present on the website. (3)
+- General 
 
 ### Submission:
 
-1. Save all the files in project repository. Commit/push to GitHub. Create tag 'final' for this release.
-
-2. Upload/update the folder to the external server.
+- Save all the files in project repository.
+- **_Commit/push_** to GitHub.
+- Create tag `'final'` for this release.
+- Upload/update all the files to the external host/cloud.
