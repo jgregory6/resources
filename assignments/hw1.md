@@ -47,7 +47,9 @@ Create a page called _sitemap.html_ (you can reuse the page you have already cre
    1. In-Class Exercise 01 (and hyperlink it your first class work, _ex01.html_).
    2. In-Class Exercise 03 (and hyperlink it to the _index.html_).
    3. In-Class Exercise 04 (and hyperlink it to _ex04.html_).
-4. Make sure that each of the hyperlinked documents (_ex01.html_, _index.html_, and _ex04.html_) has a hyperlink back to the sitemap page.
+   4. In-Class Exercise 05 (and hyperlink it to _ex05.html_).
+   5. In-Class Exercise 06 (and hyperlink it to _ex06.html_).
+4. Make sure that each of the hyperlinked documents has a hyperlink back to the sitemap page.
 5. Add a horizontal line below this list.
 6. Add the image, _home.jpg_, and hyperlink the image to _index.html_. The image file must be under _WebTech/images_ folder.
 
