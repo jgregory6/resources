@@ -21,7 +21,7 @@ Create a page _index.html_ (you can reuse the one you have already created or de
 10. A subheading called “My Hobbies” or “My Interests” using `<h2>`
 11. A paragraph under this subheading describing your interests/hobbies (using the `<p>` tag). Pick a word that best represents your interests and hyperlink it to a popular website dedicated to this hobby/interest (for example, if your interest is playing tennis, link the word "_tennis_" to [www.usta.com](https://www.usta.com/en/home.html)).
 12. Add horizontal lines above the first subheading, above the second subheading and below the last paragraph.
-13. Add a hyperlink at the bottom of the page, below the last horizontal line, to link this page to your list of work page. The text must read “My Work in WebTech”.
+13. Add a hyperlink at the bottom of the page, below the last horizontal line, to link this page to *sitemap.html*. The text must read “My Work in WebTech”.
 14. Add any comments that are not displayed by the browser.
 
 ## 2. Styling _index.html_ (8 points)
