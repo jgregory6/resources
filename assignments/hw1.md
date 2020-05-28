@@ -33,7 +33,7 @@ Style _index.html_ using only **internal** CSS as follows:
 3. `<h2>` - any non-standard font using [Google Fonts API](https://developers.google.com/fonts/docs/getting_started), any color of your choice, left-aligned.
 4. `<p>` - any `sans-serif` font, any color of your choice, with a size of 1.2em.
 5. `<p>` - the first line of each paragraph must be indented by 30px.
-6. `<img>` - floated to the left with a margin of 30px all around.
+6. `<img>` - floated to the left with a margin of 30px all around. Choose `height` (and/or `width`) appropriately. 
 7. `<body>` - set a background color (any color), and set the left and right margins to 50px.
 8. Use at least one CSS property that was not used in class exercises on any element(s). Add comment in `<style>` section to explain it.
 
