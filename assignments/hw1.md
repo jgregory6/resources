@@ -65,4 +65,7 @@ Style _sitemap.html_ using only **internal** CSS as follows:
 ---
 ## Submission:
 
-***Commit and push*** to GitHub. Create tag 'hw1' for this release. Learn [tags and release](https://help.github.com/en/github/administering-a-repository/viewing-your-repositorys-releases-and-tags).
+1. ***Commit and push*** to GitHub. 
+2. Create a release.
+   - Use tag version '`hw1`' for this release. You don't need to attach any files. 
+   - Learn more about [*Managing releases in a repository*](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
