@@ -91,12 +91,10 @@ This first version is worth **30 points**.
 - Use of a form. (3)
 - Images are appropriately used and adequate to support the website. (2)
 - Images are defined using both `alt` and `title`. (2)
-- Video included. (2)
-- Audio file included on the home page with on/off controls. (2)
+- Video/YouTube video included. (optional)
+- Audio file included on the home page with on/off controls. (optional)
 - Homepage should be called _index.html_. (1)
-- Sitemap is included (see sample site map at [
-  Apple Site Map
-  ](https://www.apple.com/sitemap)). (5)
+- Sitemap included (see sample site map at [Apple Site Map](https://www.apple.com/sitemap)). (5)
 - Contact page included with a feedback form. (3)
 - At least 2 of the 4 content pages are completed with informative and relevant content. (3)
 - Navigation bar is located in the same place on each page. (3)
