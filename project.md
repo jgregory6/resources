@@ -5,13 +5,13 @@
 The term project requires you to conceptualize, design, and implement a website. This is an individual effort. 
 
 The website must be published using following hosts: 
-1. ~~the internal server provided to you by Babson as part of this course~~
+1. ~~the internal FTP server provided to you by Babson as part of this course~~
 2. GitHub project repository
-3. An external host or cloud service. It is important that the hosting service must provide ad-free service (i.e., your webpages must not have advertisements and there must be no "pop-up" advertisements).
+3. An external web host or cloud service. It is important that the web hosting service must provide ad-free service (i.e., your webpages must not have advertisements and there must be no "pop-up" advertisements).
 
 You will be required to 
 1. purchase a domain
-2. use an external host. You can
+2. use web hosting service. You can
    - pay a hosting fee for the service such as GoDaddy or BlueHost, which is total to about \$10-\$30   
    - or use (free) cloud service such as Heroku, Amazon Web Services (AWS), Google Cloud Platform, or DigitalOcean.
 
@@ -92,7 +92,7 @@ This first version is worth **30 points**.
 - Images are appropriately used and adequate to support the website. (2)
 - Images are defined using both `alt` and `title`. (2)
 - Video/YouTube video included. (optional)
-- Audio file included on the home page with on/off controls. (optional)
+- Audio file included on the home page with controls. (optional)
 - Homepage should be called _index.html_. (1)
 - Sitemap included (see sample site map at [Apple Site Map](https://www.apple.com/sitemap)). (5)
 - Contact page included with a feedback form. (3)
@@ -115,15 +115,17 @@ Due **Wednesday 6/24/2020, by 11:59 PM**
 This version has two parts.
 
 1. Extend Version 1 by adding CSS and by filling in the gaps that may exist.
-2. Have your external host and domain name available with all the files uploaded to external host.
+2. Have your web host (or cloud) and domain name available with all the files uploaded.
 
 This deliverable is worth **25 points**.
 
 ### Grading Rubric:
 
-- All the pages are hosted on the external host(or cloud). Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
-- Look and feel of the site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) – this is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on the use of colors, fonts and backgrounds.
-- Attention to SEO principles. (3)
+- All the pages are hosted on web host(or cloud). Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
+- Look and feel of your site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) 
+  - This is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on all the styles.
+- Create a [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and add it to your site. See [how to](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) and [online favicon generator](https://favicon.io/). (3)
+- Attention to SEO principles. Check out `<meta>` part in [*Publishing your website*](https://github.com/MIS3690/resources/blob/master/slides/lec10-publish-website.pdf). (3)
 - A separate credits page included if credits are due to sources for images, multimedia, or content. If no credits are due, then add the following statement at the end of your sitemap page _"All intellectual property at this website is in the public domain or is the property of the site-owner."_ (3)
 - Include the honor code at the end of the sitemap page: "I, \<_your name_\>, pledge my honor that I have neither received nor provided unauthorized assistance during the completion of this work. I have read the term project instructions and observed all the restrictions and limitations specified therein." (2)
 - The remaining content pages are completed and linked to the website. (2)
@@ -133,7 +135,7 @@ This deliverable is worth **25 points**.
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
 - Create tag 'v2.0' for this release.
-- Upload all the files to external host.
+- Upload all the files to web host (or cloud).
 
 ---
 
@@ -141,13 +143,13 @@ This deliverable is worth **25 points**.
 
 Due **Monday 7/6/2020, by 11:59 PM**
 
-The final version of the project must have the full-set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository. It also includes the full-set of project files uploaded to the external host/cloud and linked to _sitemap.html_ in _WebTech_ repository.
+The final version of the project must have the full-set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository. It also includes the full-set of project files uploaded to the web host/cloud and linked to _sitemap.html_ in _WebTech_ repository.
 
 This deliverable is worth **40 points**.
 
 ### Grading Rubric:
 
-- Final version in the external host/cloud and linked to _sitemap.html_. (2)
+- Final version in the web host/cloud and linked to _sitemap.html_. (2)
 - JavaScript is used for the following functionalities/effects:
   - Change the text on a page in response to the user’s action. (2)
   - Change the style of some element in response to the user’s action. (2)
@@ -163,4 +165,4 @@ This deliverable is worth **40 points**.
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
 - Create tag `'final'` for this release.
-- Upload/update all the files to the external host/cloud.
+- Upload/update all the files to the web host/cloud.
