@@ -28,10 +28,10 @@
 | 24        | ^    | jQuery Effects                                       |
 | 25        | 6/29 | jQuery UI                                            |                                       | **Quiz**: jQuery     |
 | 26        | ^    | jQuery Advanced Features                             |
-| 25        | 7/1  | Bootstrap                                            |                                       |                      |
-| 26        | ^    | Mobile App                                           |
-| 27        | 7/6  | Introduction to Python<br>Flask Application          | **Due**: HW4<br>**Due**: Term Project |
-| 28        | ^    | Project Presentation                                 |
+| 27        | 7/1  | Bootstrap                                            |                                       |                      |
+| 28        | ^    | Mobile App                                           |
+| 29        | 7/6  | Introduction to Python<br>Flask Application          | **Due**: HW4<br>**Due**: Term Project |
+| 30        | ^    | Project Presentation                                 |
 
 
 *updated: 6/6/2020*
