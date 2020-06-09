@@ -105,6 +105,9 @@ This first version is worth **30 points**.
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
 - Create tag `'v1.0'` for current release. Learn [creating a release](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
+- Link your own domain to GitHub pages of project repository. Add description and website to your project repository on GitHub (as below).
+![](https://i.imgur.com/Cwh32rx.gif)
+- Submit the URL to your website (not GitHub) on Canvas.
 
 ---
 
@@ -115,8 +118,8 @@ Due **Wednesday 6/24/2020, by 11:59 PM**
 This version has two parts.
 
 1. Extend Version 1 by adding CSS and by filling in the gaps that may exist.
-2. Have your web host (or cloud) and domain name available with all the files uploaded.
-
+2. ~~Have your web host (or cloud) and domain name available with all the files uploaded.~~ 
+   
 This deliverable is worth **25 points**.
 
 ### Grading Rubric:
