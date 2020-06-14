@@ -106,7 +106,7 @@ This first version is worth **30 points**.
 - **_Commit/push_** to GitHub.
 - Create tag `'v1.0'` for current release. Learn [creating a release](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository).
 - Link your own domain to GitHub pages of project repository. Add Description and Website to your project repository on GitHub (see below).
-![](https://i.imgur.com/Cwh32rx.gif)
+![](https://i.imgur.com/QAhOGVJ.gif)
 - Submit the URL to your website (not GitHub) on Canvas.
 
 ---
