@@ -34,4 +34,4 @@
 | 30        | ^    | Project Presentation                         |
 
 
-*updated: 6/6/2020*
+*updated: 6/16/2020*
