@@ -124,7 +124,7 @@ This deliverable is worth **25 points**.
 
 ### Grading Rubric:
 
-- All the pages are hosted on web host(or cloud). Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
+- All the pages are hosted on web host/cloud/GitHub. Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
 - Look and feel of your site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) 
   - This is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on all the styles.
 - Create a [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and add it to your site. See [how to](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) and [online favicon generator](https://favicon.io/). (3)
