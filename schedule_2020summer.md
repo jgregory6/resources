@@ -23,15 +23,15 @@
 |        19 | 6/17  | JavaScript: Form Validation                  | **Available**: HW3 (6/20)             |
 |        20 |   ^   | ^                                            |
 |        21 | 6/22  | JavaScript: Arrays                           |                                       |
-|        22 |   ^   | JavaScript: Animation                        |                                       | **Quiz**: JavaScript-2   |
-|        23 | 6/24  | JavaScript: Image Processing                 | **Due**: Project v2                   | **Quiz**: JavaScript-3   |
-|        24 |   ^   | JavaScript: Creating Game App<br>Review      | **Due**: HW3                          |
-|        25 | 6/29  | Exam                                         |                                       |                          |
-|        26 |   ^   | Exam                                         |
-|        27 |  7/1  | Introduction to jQuery<br>Bootstrap          |                                       |                          |
+|        22 |   ^   |                                              |                                       | **Quiz**: JavaScript-2   |
+|        23 | 6/24  | JavaScript: Animation                        | **Due**: Project v2                   | **Quiz**: JavaScript-3   |
+|        24 |   ^   |                                              | **Due**: HW3                          |
+|        25 | 6/29  | JavaScript: Image Processing                 |                                       |                          |
+|        26 |   ^   | JavaScript: Creating Game<br>Review for Exam |
+|        27 |  7/1  | Introduction to jQuery<br>Bootstrap          | **Available**: Exam                   |                          |
 |        28 |   ^   | Mobile App                                   |
 |        29 |  7/6  | Introduction to Python<br>Flask Application  | **Due**: HW4<br>**Due**: Term Project |
 |        30 |   ^   | Project Presentation                         |
 
 
-*updated: 6/17/2020*
+*updated: 6/27/2020*
