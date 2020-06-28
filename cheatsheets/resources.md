@@ -48,6 +48,9 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [Eloquent JavaScript (second edition, free online)](http://eloquentjavascript.net/)
 - ...
 
+## Video Tutorials
+- [Learn HTML5 and CSS3 From Scratch - Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
+
 ## Websites
 
 - [A List Apart: For People Who Make Websites](http://alistapart.com/)
