@@ -5,13 +5,13 @@
 The term project requires you to conceptualize, design, and implement a website. This is an individual effort. 
 
 The website must be published using following hosts: 
-1. ~~the internal FTP server provided to you by Babson as part of this course~~
-2. GitHub project repository
-3. An external web host or cloud service. It is important that the web hosting service must provide ad-free service (i.e., your webpages must not have advertisements and there must be no "pop-up" advertisements).
+1. GitHub project repository
+2. ~~the internal FTP server provided to you by Babson as part of this course~~
+3. (Optional) external web host or cloud service (if you want to use backend programs, i.e. PHP or Python.) It is important that the web hosting service must provide ad-free service. .
 
 You will be required to 
 1. purchase a domain
-2. use web hosting service. You can
+2. (optional) use web hosting service. You can
    - pay a hosting fee for the service such as GoDaddy or BlueHost, which is total to about \$10-\$30   
    - or use (free) cloud service such as Heroku, Amazon Web Services (AWS), Google Cloud Platform, or DigitalOcean.
 
@@ -117,14 +117,14 @@ Due **Wednesday 6/24/2020, by 11:59 PM**
 
 This version has two parts.
 
-1. Extend Version 1 by adding CSS and by filling in the gaps that may exist.
+1. Extend Version 1 by adding styles and by filling in the gaps that may exist.
 2. ~~Have your web host (or cloud) and domain name available with all the files uploaded.~~ 
    
 This deliverable is worth **25 points**.
 
 ### Grading Rubric:
 
-- All the pages are hosted on web host/cloud/GitHub. Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
+- If you are using web host/cloud, all the pages must be hosted on web host/cloud. Add the website domain to _sitemap.html_ in _WebTech_ repository. (6)
 - Look and feel of your site (use of colors, fonts, backgrounds and consistency of styles across the pages) (7) 
   - This is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on all the styles.
 - Create a [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and add it to your site. See [how to](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) and [online favicon generator](https://favicon.io/). (3)
@@ -137,8 +137,8 @@ This deliverable is worth **25 points**.
 
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
-- Create tag 'v2.0' for this release.
-- Upload all the files to web host (or cloud).
+- Create tag `'v2.0'` for this release.
+- If you are using web host/cloud, upload all the files to web host (or cloud).
 
 ---
 
@@ -146,26 +146,26 @@ This deliverable is worth **25 points**.
 
 Due **Monday 7/6/2020, by 11:59 PM**
 
-The final version of the project must have the full-set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository. It also includes the full-set of project files uploaded to the web host/cloud and linked to _sitemap.html_ in _WebTech_ repository.
+The final version of the project must have the full set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository (both GitHub URL and website domain). If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
 This deliverable is worth **40 points**.
 
 ### Grading Rubric:
 
-- Final version in the web host/cloud and linked to _sitemap.html_. (2)
+- Improvement on content and styles.
 - JavaScript is used for the following functionalities/effects:
   - Change the text on a page in response to the user’s action. (2)
   - Change the style of some element in response to the user’s action. (2)
   - Validate a form. (2)
-  - Change images using mouse-over and mouse-out. (2)
-  - Present a slide-show. (2)
-  - Animate something or add some other functionality to the page besides what is listed above. (3)
-- Some jQuery elements are present on the website. (3)
-- General 
+  - Change image(s) using mouseover and mouseout. (2)
+  - Present a slide-show. (optional, but recommended) (2)
+  - Animate something or add some other functionalities besides what is listed above. (3)
+- ~~Some jQuery elements are present on the website. (3)~~
+- Responses to peer review feedback
 
 ### Submission:
 
 - Save all the files in project repository.
 - **_Commit/push_** to GitHub.
 - Create tag `'final'` for this release.
-- Upload/update all the files to the web host/cloud.
+- If you are using web host/cloud, upload/update all the files to the web host/cloud.
