@@ -28,10 +28,10 @@
 |        24 |   ^   |                                              | **Due**: HW3               |
 |        25 | 6/29  | JavaScript: Image Processing                 |                            | **Quiz**: JavaScript-3   |
 |        26 |   ^   | JavaScript: Creating Game<br>Review for Exam |
-|        27 |  7/1  | Introduction to jQuery<br>Bootstrap          | **Available**: Exam        |                          |
+|        27 |  7/1  | Introduction to jQuery<br>Bootstrap          | ~~**Available**: Exam~~        |                          |
 |        28 |   ^   | Mobile App                                   |
 |        29 |  7/6  | Introduction to Python<br>Flask Application  | ~~**Due**: HW4~~           |
 |        30 |   ^   | Project Presentation                         | **Due**: Term Project      |
-
+|           |  7/9  | Exam                                         |                            |
 
 *updated: 6/29/2020*
