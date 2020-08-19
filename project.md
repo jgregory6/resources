@@ -55,7 +55,7 @@ To start your project, you need to create a **_new public_** repository in GitHu
 
 ## Project Proposal
 
-Due: **Wednesday 6/3/2020, by 11:59 PM**
+Due: **Wednesday 9/23/2020, by 11:59 PM**
 
 This is a webpage that answers the following questions:
 
@@ -78,7 +78,7 @@ This first version is worth **5 points**.
 
 ## Project Version 1
 
-Due **Wednesday 6/10/2020, by 11:59 PM**
+Due **Wednesday 10/13/2020, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -113,7 +113,7 @@ This first version is worth **30 points**.
 
 ## Project Version 2
 
-Due **Wednesday 6/24/2020, by 11:59 PM**
+Due **Wednesday 11/2/2020, by 11:59 PM**
 
 This version has two parts.
 
@@ -144,7 +144,7 @@ This deliverable is worth **25 points**.
 
 ## Project Final
 
-Due **Monday 7/6/2020, by 11:59 PM**
+Due **Monday 11/27/2020, by 11:59 PM**
 
 The final version of the project must have the full set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository (both GitHub URL and website domain). If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
