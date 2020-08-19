@@ -1,6 +1,6 @@
-# MIS3690 Web Technologies - 2020 Summer - Syllabus
+# MIS3690 Web Technologies - 2020 Fall - Syllabus
 
-- Online Class Time: Monday, Wednesday, 5:00PM - 7:45PM
+- Online Class Time: Monday, Wednesday, 8:00PM - 9:30PM
 - Online Class Platform: Zoom (check Canvas for Zoom link and password)
 
 ## Instructor Info
@@ -15,10 +15,10 @@ If you need help outside of class and office hours, use Slack.
 - Canvas:  
   - What: The default course site
   - Used for: traditional stuff (Announcements, assignments, sensitive information...)
-- [GitHub repositories](https://github.com/MIS3690)
+- [GitHub](https://github.com/MIS3690):
   - What: Course GitHub repositories
   - Used for: materials; demo code; homework/exam starter code.
-- Slack message channel
+- Slack:
   - What: Course Slack channel.
   - Used for: debugging help, clarifications, real-time discussion and random chat.
 
@@ -40,20 +40,18 @@ A basic knowledge of the use of a personal computer employing Windows and Micros
 
 ## Textbook
 
-There are no required texts for this course. All course material will be presented in PowerPoint format and posted on Canvas/GitHub. However, students are encouraged to purchase books on HTML, CSS and JavaScript for reference and additional support, if needed. The following source is particularly useful: [W3Schools](http://www.w3schools.com).
+There are no required texts for this course. All course material will be presented in PowerPoint format and posted on Canvas/GitHub. However, students are encouraged to purchase books on HTML, CSS and JavaScript for reference and additional support, if needed. The following websites are particularly useful: [MDN Web Docs](https://developer.mozilla.org/en-US/) and [W3Schools](https://www.w3schools.com).
 
 ## Software
 
 ### Web Browsers
 
 - [Chrome](https://www.google.com/chrome/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
   
 ### Source Control
 
-- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README.md.
-
-  You also need to add me (zli@babson.edu) as a collaborator on the repo.
+- [GitHub Desktop](https://desktop.github.com): You are required to set up a **private** repository 'WebTech' for the course with a README.md. You also need to add me (zli@babson.edu) as a collaborator on the repo.
 - [GitHub Student Developer Pack](https://education.github.com/pack)
   
 ### Text Editors (pick one)
@@ -65,11 +63,11 @@ There are no required texts for this course. All course material will be present
 
 ## Grading
 
-- In-Class Labs 15%
+- Participation and In-Class Exercises 15%
 - Quizzes 10%
 - Graded Homework 20%
-- Term Project 25%
-- Exam 30%
+- Term Project 30%
+- Exam 25%
 
 | Grade |  Range   |
 | :---: | :------: |
@@ -102,7 +100,7 @@ In almost every class we will be completing a few small hands-on exercises (usua
 
 ## Examination
 
-There will be one exam in the second week of November. The exam is in-class, hands-on, open book, open notes, open web exam. The exam will be about 100 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. Kindly make alternate arrangements if you believe you have a conflict after checking the course schedule below.
+There will be one exam in the exam week. The exam is hands-on, open book, open notes, open web exam. The exam will be about 100 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. Kindly make alternate arrangements if you believe you have a conflict after checking the course schedule below.
 
 ## Course Policies
 
@@ -111,3 +109,20 @@ There will be one exam in the second week of November. The exam is in-class, han
 - **Need for Academic Accommodation**: Babson College is committed to providing equal educational opportunities for students with disabilities. Any student who is entitled to an academic accommodation based on the impact of a documented disability should contact me privately during office hours to discuss his or her specific needs. Please also contact the Office of Academic Services at 781-239-4075 or in Hollister Hall to coordinate reasonable accommodations.
 
 - **Honor Code**: Integrity is a core institutional value at Babson. The Babson College Undergraduate Honor Code sets forth clear expectations with regard to how your behaviors, actions, and decision making support our institutional commitment to integrity. The Code, and all that it comprises, aims to build a Community of Honor at Babson - one that is connected and strengthened by each member’s individual commitment to integrity and ethical decision making in all that we do. As a Babson student, you are committing to being an active and engaged participant in our Community of Honor, in partnership with your fellow students, faculty, staff, and alumni.
+
+- **Academic Integrity**:
+
+  In this course, you are required to abide by the College’s Academic Integrity Policies and Procedures as outlined in [Babson’s Student Code of Ethics](https://www.babson.edu/media/babson/assets/community-standards/babson-code-of-ethics.pdf). Please review the College’s Student Code of Ethics in its entirety, as it is your responsibility to take the appropriate steps to ensure your understanding of the Code. Ignorance of the policies is not a valid excuse for any violations.
+
+  Academic integrity is important for two reasons. First, independent and original scholarship ensures that students derive the most they can from their educational experience and the pursuit of knowledge. Second, academic misconduct violates the most fundamental values of an intellectual community and diminishes the achievements of the entire college community. Accordingly, Babson views academic misconduct as one of the most serious violations of the College’s expectations that a student can commit while at Babson College. Specific behaviors that constitute academic misconduct, as defined in the Code, are **cheating, fabrication, facilitating academic dishonesty, plagiarism, participation in academically dishonest activities, and unauthorized collaboration.** In the instance I am presented with evidence to suggest that you engaged in any of these behaviors, I will refer the incident to the [Office of Community Standards](https://www.babson.edu/student-life/community-standards/) for review.  
+
+  For your coursework, you are required to affirm your understanding of and commitment to the academic honesty and integrity expectations set forth in the Code. You will be asked to write the following pledge on every exam, paper, project, or other academic exercise:
+
+      “I have abided by the Babson Code of Ethics in this work and pledge to be better than that which would compromise my integrity.” 
+
+  If you have questions relative to academic integrity expectations within the context of a particular assignment, please ask me directly. General questions can be directed to communitystandards@babson.edu.  
+
+* **Conflict Navigation Services**:
+  
+  Conflict – especially when working in groups – is a normal, healthy, and expected part of life and ideally is viewed as an opportunity to strengthen relationships, improve efficiency, and rectify underlying concerns that often otherwise go unaddressed. Resolving conflict is a vital part of the educational journey of the Babson student and entrepreneur and requires your active participation and skill development. If you experience interpersonal conflict in this course, I encourage you to explore the [College’s Conflict Navigation Services](https://bit.ly/babsonconflictform) as a resource. 
+
