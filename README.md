@@ -1,4 +1,4 @@
-# Resources and information for MIS3690 - _Web Technologies_
+# Resources and Information for MIS3690 - _Web Technologies_
 
 ### Class Information:
 
