@@ -100,7 +100,7 @@ In almost every class we will be completing a few small hands-on exercises (usua
 
 ## Examination
 
-There will be one exam in the exam week. The exam is hands-on, open book, open notes, open web exam. The exam will be about 100 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. Kindly make alternate arrangements if you believe you have a conflict after checking the course schedule below.
+There will be one exam in the exam week. The exam is hands-on, open book, open notes, open web exam. The exam will be about 100 minutes long. The exam will be based largely on the graded homework and in-class exercises done. Unexcused absence will result in a score of zero for the exam. 
 
 ## Course Policies
 
