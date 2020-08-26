@@ -1,9 +1,16 @@
 # MIS3690 Web Technologies - 2020 Fall - Syllabus
 
+## Time and Address
 - Online Class Time: Monday, Wednesday, 8:00PM - 9:30PM
 - Online Class Platform: Zoom (check Canvas for Zoom link and password)
 
-## Instructor Info
+
+## Class Modes
+- Mode 1: **LIVE** (default) - Zoom class will be conducted and recorded. Recording link will be posted to Canvas.
+- Mode 2: **ASYNC** - Zoom will be open during class times as "live check-in" and/or office hours.
+
+
+## Instructor Information
 
 - Instructor: Dr. Zhi Li
 - E-mail: [zli@babson.edu](mailto:zli@babson.edu)
