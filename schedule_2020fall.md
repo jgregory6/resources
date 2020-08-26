@@ -1,6 +1,6 @@
 # Course Schedule (subject to minor changes)
 
-| Session # | Date  | Topic                                                | Homeowrk                  | Other                    |
+| Session # | Date  | Topic                                                | Homework                  | Other                    |
 | --------: | :---: | :--------------------------------------------------- | ------------------------- | ------------------------ |
 |        01 | 8/24  | Introduction to the Course                           |
 |        02 | 8/26  | Introduction to HTML                                 |
