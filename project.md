@@ -1,4 +1,4 @@
-# MIS3690 Web Technologies - Term Project (subject to changes)
+# MIS3690 Web Technologies - Term Project
 
 ## What is the Term Project?
 
@@ -169,3 +169,7 @@ This deliverable is worth **40 points**.
 - **_Commit/push_** to GitHub.
 - Create tag `'final'` for this release.
 - If you are using web host/cloud, upload/update all the files to the web host/cloud.
+
+
+---
+*updated: 9/3/2020*
