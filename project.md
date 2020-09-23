@@ -78,7 +78,7 @@ This first version is worth **5 points**.
 
 ## Project Version 1
 
-Due **Wednesday 10/13/2020, by 11:59 PM**
+Due **Wednesday 10/7/2020, by 11:59 PM**
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. CSS, JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
